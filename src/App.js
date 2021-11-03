@@ -1,5 +1,6 @@
-import logo from "./logo.svg";
-import "./App.css";
+import React from 'react';
+import logo from './logo.svg';
+import './App.css';
 
 function App() {
   return (
@@ -7,7 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Editt <code>src/App.js</code>
+          Editt
+          <code>src/App.js</code>
           and save to rel oad.
         </p>
         <a
@@ -19,7 +21,7 @@ function App() {
           Learn React
         </a>
       </header>
-            </div>
+    </div>
   );
 }
 
