@@ -10,7 +10,7 @@ function App() {
                 <p>
                     Editt
                     <code>src/App.js</code>
-                    and save to rel oad.
+                    and save to re l oad.
                 </p>
                 <a
                     className="App-link"
